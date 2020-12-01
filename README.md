@@ -6,6 +6,8 @@ In Part 2, we add some basic interactivity to the periodic table by allowing our
 
 ![Periodic Table of Svelements](https://cdn-images-1.medium.com/max/800/1*EP6NB6mNPn9PbnBCyltPGA.png)
 
+You can also check the <a href="http://periodic_table_of_svelements_part_2.surge.sh"> demo </a>
+
 ## Getting started
 
 Clone or download the repo, then navigate to the root directory and install the dependencies.
